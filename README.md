@@ -5,8 +5,6 @@ A real-time, browser-based hand tracking visual experience powered by **MediaPip
 ---
 
 ## 🚀 Live Demo
-
-👉 Paste your deployed link here:
 https://devasena999.github.io/hand-magic/
 
 ---
